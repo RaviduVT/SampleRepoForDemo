@@ -19,7 +19,7 @@ fun MainScreen(){
             Column(
                 modifier = Modifier.padding(it).fillMaxSize(),
                 horizontalAlignment = Alignment.CenterHorizontally,
-                verticalArrangement = Arrangement.Top
+                verticalArrangement = Arrangement.Bottom
             ) {
                 Text(
                     text = "This is the main screen sdofjsodifhsdf",
