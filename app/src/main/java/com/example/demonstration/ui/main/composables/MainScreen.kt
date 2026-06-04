@@ -22,7 +22,7 @@ fun MainScreen(){
                 verticalArrangement = Arrangement.Top
             ) {
                 Text(
-                    text = "This is the main screen",
+                    text = "This is the main screen sdofjsodifhsdf",
                     fontSize = 32.sp
                 )
             }
